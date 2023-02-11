@@ -4,7 +4,7 @@
 
 🌱 Certified IBM Data Science Professional 💼
 
-💻 Full Stack Software Engineering & Data Analysis Collaborator 🤝
+💻 Front End  Engineering & Data Analysis Collaborator 🤝
 
 💞 Looking to expand my skills and contribute to exciting projects!
 
