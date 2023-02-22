@@ -1,10 +1,10 @@
-👋 Hi, I'm @Osikanyi
+👋 Hi, I'm Osikanyi
 
-🔍 Passionate about Data Science and Machine Learning
+🔍 Passionate about Data Analytics and Machine Learning
 
 🌱 Certified IBM Data Science Professional 💼
 
-💻 Front End  Engineering & Data Analysis Collaborator 🤝
+💻 Data Analysis Collaborator 🤝
 
 💞 Looking to expand my skills and contribute to exciting projects!
 
